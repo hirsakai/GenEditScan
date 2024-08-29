@@ -1,7 +1,7 @@
 # GenEditScan: Gene Editing and Scanning tools
-This repository provides programs for the k-mer analysis to detect unintended external DNA in a host genome.
+GenEditScan is a tool used to analyze the presence or absence of residual foreign DNA in genome-edited organisms using next-generation sequencing data.
 
-GenEditScan is based upon kmer (https://github.com/taitoh1970/kmer).
+GenEditScan is based upon k-mer analysis tool (https://github.com/taitoh1970/kmer).
 
 ## Installation
 
