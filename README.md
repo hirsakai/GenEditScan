@@ -1,4 +1,5 @@
-# GenEditScan: Genome Editing Scanning tools
+# GenEditScan: a fast and efficient analysis tool to detect foreign DNA in the genome-edited agricultural products using high-throughput sequencing data
+
 GenEditScan is a tool used to analyze the presence or absence of residual foreign DNA in genome-edited organisms using next-generation sequencing data.
 
 GenEditScan is based upon k-mer analysis tool (https://github.com/taitoh1970/kmer).
