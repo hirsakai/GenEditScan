@@ -3,6 +3,8 @@ GenEditScan is a tool used to analyze the presence or absence of residual foreig
 
 GenEditScan is based upon k-mer analysis tool (https://github.com/taitoh1970/kmer).
 
+GUI version of GenEditScan is available from another repository (https://github.com/hirsakai/GenEditScan-GUI).
+
 ## Installation
 
 ### Linux
